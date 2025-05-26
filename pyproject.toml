@@ -3,5 +3,6 @@ name = "g5lab1"
 version = "0.1.0"
 dependencies = [
     "xgboost==2.1.1",
-    "pandas==2.2.3"
+    "pandas==2.2.3",
+    "seaborn==0.13.2"
 ]
